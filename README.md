@@ -1,14 +1,9 @@
-# Treat
+# dizzy kitchen
 
-Food/baking blog template for Jekyll. Browse through a [live demo](https://spring-bat.cloudvent.net/).
+This is a food/baking blog  made by Diana Zhang...
 
-![Treat template screenshot](images/_screenshot.png)
 
-Treat was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
-
-## Features
+<!--## Features
 
 * Contact form
 * Pre-built pages
@@ -67,4 +62,4 @@ Treat is already optimised for adding, updating and removing recipes, navigation
 ### Footer
 
 * Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
+* Set in the *Data* / *Footer* section. -->
