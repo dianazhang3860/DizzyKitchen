@@ -2,21 +2,21 @@
 # Site
 
 title: dizzy kitchen
-url: "https://dizzydizzykitchen.com"
+url: "https://www.dizzydizzykitchen.com"
 baseurl:
-google_analytics_key:
-newsletter_action:
-disqus_shortname:
+google_analytics_key: UA-127462434-1
+newsletter_action: 
+disqus_shortname: dizzydizzykitchen
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: A fun cooking/recipies website
 author:
-  name:
-  email: crazyhungryasian@gmail.com
-  twitter: dizzykitchen
-social: 
-  name:
+  name: Diana Zhang
+  email: contact@dizzydizzykitchen.com
+  twitter:
+social:
+  name: Diana Zhang
   links:
     - https://www.facebook.com/dianazhang3860
 
@@ -71,7 +71,6 @@ exclude:
   - LICENCE
 
 # -----------
-# CloudCannon
 
 social_icons:
   - Facebook

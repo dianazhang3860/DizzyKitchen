@@ -1,10 +1,11 @@
 ---
-youtube-id: z0pBM93tUts
+comments: true
+youtube-id: _3CYJfA_njQ
 date: 2018-09-20
 title: boba milk tea
 categories:
   - drinks
-featured_image: /assets/IMG_7674.jpg
+featured_image: /assets/IMG_7674_2.jpg
 recipe:
   servings: enough for 4 people
   prep: 30 minutes
@@ -52,15 +53,19 @@ recipe:
     4. Fish out the tea and whisk in the milk and condensed milk, then let the mixture steep for another 5 minutes. The condensed milk contributes most to the sweetness of the tea, so add as much or as little as you prefer.
     5. Strain the milk tea into a serving container and refrigerate for at least 2 hours.
 
-    **Preparation**
+    **Preparations**
     1. (Optional) Mix 1/2 tablespoon of matcha/cocoa/ube powder with 3 tablespoons of water until the powder has dissolved
     2. Pour the flavoring into a serving cup, topping off with the milk tea. Mix together with a spoon.
     3. Add in the tapioca pearls.
     4. (Optional) Add ice.
 ---
-Boba Milk Tea has always been a childhood favorite of mine; however, it can get a little expensive. With this recipe,
-you can make a ton at a very low price. This recipe is super fun to make with family or with friends and because you are working with dough, don't be afraid to play around and make your own shapes! Plus, hand-making the tapioca pearls is a good alternative because then you know exactly what you are putting in your body.
+Boba milk tea was basically my entire childhood. I vividly remember in high school, we would create these lists that ranked the best boba shop to the worst. Even though it was so delicious, it can get a little expensive. With this recipe,
+you can make a ton at a very low price. This treat super fun to make with family or with friends and because you are working with dough, don't be afraid to play around and make your own shapes! Plus, hand-making the tapioca pearls is a good alternative because then you know exactly what you are putting in your body. There's nothing processed, nothing faked. This is just about as natural as you can get with a drink like this.
 
 With this recipe, you can really make it your own. You can swap out the matcha powder for strawberry ice cream or mango puree. You can even try green tea instead of black tea. Using almond or cashew milk instead of regular milk is super delicious as well!
+
+What will I do better next time? My goal would probably be to make the boba way smaller. As you can from the video, I made some thicc balls, thicc enough I could barely get them up the straw. Oh well! We're all still on a learning curve right? I'd also like to explore into the realm of Hong Kong milk teas. I recently came back from Hong Kong and apparently there is this super famous shop named Lan Fong Yuen on Hong Kong Island that will filter your tea through a woman's stocking! Because its such a fine sieve, the tea will come out silky smooth. They also will add in some evaporated milk I believe. Stay tuned for a new recipe soon!
+
+Note: I was so lost when making the boba, so the recipe is one I adapted from TaiwanCooking on YouTube. 
 
 {% include youtube-player.html id=page.youtube-id %}
